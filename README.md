@@ -1,5 +1,9 @@
 # AgentForge AI — Autonomous Software Engineering Platform
 
+<img width="1920" height="869" alt="Screenshot 2026-11-02 090126" src="https://github.com/user-attachments/assets/386a4eeb-4c08-40cb-bc16-d96b8eefd1c8" />
+<img width="1920" height="860" alt="Screenshot 2026-11-02 090044" src="https://github.com/user-attachments/assets/7c1d9874-c8b9-43f8-a373-2b62636eaafa" />
+
+
 > **Candidate Portfolio Project for AI-Native Software Engineer – Trainee position at Spektra Systems LLC**
 
 AgentForge AI is a production-grade autonomous software engineering workspace where users formulate high-level software requirements in natural language, and specialized AI agents collaborate across an execution graph to plan, synthesize, test, review, audit, and deploy software.

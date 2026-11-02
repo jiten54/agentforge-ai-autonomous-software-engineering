@@ -1,0 +1,8 @@
+{
+  "name": "AgentForge AI — Autonomous Software Engineering Platform",
+  "description": "Enterprise-grade autonomous AI software engineering platform coordinating specialized agents for specifications, development, automated testing, code review, security auditing, and deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
